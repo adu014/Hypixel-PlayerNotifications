@@ -3,9 +3,9 @@ import time
 import json
 
 #variables to change.
-username = "Jack16"
-HYPIXEL_API_KEY = "#####" # get from in game using /api new
-URL = "######" # setup in the settings of the guild, more in readme.md
+username = "QuantumToucan"
+HYPIXEL_API_KEY = "f87d7db7-c6da-4b81-a6da-0a6576c48ddd" # get from in game using /api new
+URL = "https://discord.com/api/webhooks/1072350282836607058/E97EvX6HIaGYm8Kpo88aIkdIqKOcOaD5bg2SeNjasGpABrElUHKibRDOwMTqawbPLuyB" # setup in the settings of the guild, more in readme.md
 # Don't change below this line. 
 
 previous_state = ""
